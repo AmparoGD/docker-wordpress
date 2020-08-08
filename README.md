@@ -1,3 +1,1 @@
 # docker-wordpress
-
-Hola mundo
